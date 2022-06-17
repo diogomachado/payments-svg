@@ -1,201 +1,216 @@
-[class^="pay-"], [class*=" pay-"] {
+.icon {
   display: inline-block;
   background-repeat: no-repeat;
   background-image: url(sprite.svg);
 }
-.pay-agoracred {
-  width: 32px;
-  height: 32px;
+.pay-americanexpress {
+  width: 28px;
+  height: 16px;
   background-position: 0 0;
 }
-.pay-americanexpress {
-  width: 32px;
-  height: 32px;
-  background-position: -48px 0;
-}
 .pay-aura {
-  width: 32px;
-  height: 32px;
-  background-position: -96px 0;
+  width: 24px;
+  height: 16px;
+  background-position: -64px 0;
 }
 .pay-avista {
-  width: 32px;
-  height: 32px;
-  background-position: -144px 0;
+  width: 47px;
+  height: 16px;
+  background-position: -96px 0;
 }
 .pay-bancobrasil {
-  width: 32px;
-  height: 32px;
-  background-position: -192px 0;
+  width: 16px;
+  height: 16px;
+  background-position: -160px 0;
 }
 .pay-banescard {
-  width: 32px;
-  height: 32px;
-  background-position: -240px 0;
+  width: 42px;
+  height: 16px;
+  background-position: -192px 0;
 }
 .pay-banricompras {
-  width: 32px;
-  height: 32px;
-  background-position: -288px 0;
+  width: 17px;
+  height: 16px;
+  background-position: -256px 0;
 }
 .pay-banrisul {
-  width: 32px;
-  height: 32px;
-  background-position: -336px 0;
+  width: 24px;
+  height: 16px;
+  background-position: -288px 0;
 }
 .pay-bitcoin {
-  width: 32px;
-  height: 32px;
-  background-position: -384px 0;
+  width: 76px;
+  height: 16px;
+  background-position: -320px 0;
 }
 .pay-boleto {
-  width: 32px;
-  height: 32px;
-  background-position: -432px 0;
+  width: 27px;
+  height: 16px;
+  background-position: -416px 0;
 }
 .pay-bradesco {
-  width: 32px;
-  height: 32px;
-  background-position: -480px 0;
+  width: 16px;
+  height: 16px;
+  background-position: 0 -32px;
 }
 .pay-brasilcard {
-  width: 32px;
-  height: 32px;
-  background-position: -528px 0;
+  width: 14px;
+  height: 16px;
+  background-position: -32px -32px;
 }
 .pay-cabal {
-  width: 32px;
-  height: 32px;
-  background-position: -576px 0;
+  width: 15px;
+  height: 16px;
+  background-position: -64px -32px;
 }
 .pay-cabaldebito {
-  width: 32px;
-  height: 32px;
-  background-position: -624px 0;
+  width: 13px;
+  height: 16px;
+  background-position: -96px -32px;
 }
 .pay-cardban {
-  width: 32px;
-  height: 32px;
-  background-position: -672px 0;
+  width: 11px;
+  height: 16px;
+  background-position: -128px -32px;
 }
 .pay-cheque {
-  width: 32px;
-  height: 32px;
-  background-position: -720px 0;
+  width: 28px;
+  height: 16px;
+  background-position: -160px -32px;
+}
+.pay-cielo {
+  width: 44px;
+  height: 16px;
+  background-position: -224px -32px;
 }
 .pay-dacasa {
-  width: 32px;
-  height: 32px;
-  background-position: 0 -48px;
+  width: 58px;
+  height: 16px;
+  background-position: -288px -32px;
 }
 .pay-dinersclub {
-  width: 32px;
-  height: 32px;
-  background-position: -48px -48px;
+  width: 61px;
+  height: 16px;
+  background-position: -384px -32px;
 }
 .pay-dinheiro {
-  width: 32px;
-  height: 32px;
-  background-position: -96px -48px;
+  width: 13px;
+  height: 16px;
+  background-position: 0 -64px;
 }
 .pay-discover {
-  width: 32px;
-  height: 32px;
-  background-position: -144px -48px;
+  width: 95px;
+  height: 16px;
+  background-position: -32px -64px;
 }
 .pay-elo {
-  width: 32px;
-  height: 32px;
-  background-position: -192px -48px;
+  width: 16px;
+  height: 16px;
+  background-position: -160px -64px;
 }
 .pay-fortbrasil {
-  width: 32px;
-  height: 32px;
-  background-position: -240px -48px;
+  width: 47px;
+  height: 16px;
+  background-position: -192px -64px;
 }
 .pay-grandcard {
-  width: 32px;
-  height: 32px;
-  background-position: -288px -48px;
+  width: 89px;
+  height: 16px;
+  background-position: -256px -64px;
 }
 .pay-hipercard {
-  width: 32px;
-  height: 32px;
-  background-position: -336px -48px;
+  width: 37px;
+  height: 16px;
+  background-position: -384px -64px;
 }
 .pay-itau {
-  width: 32px;
-  height: 32px;
-  background-position: -384px -48px;
+  width: 16px;
+  height: 16px;
+  background-position: -448px -64px;
+}
+.pay-jcb {
+  width: 21px;
+  height: 16px;
+  background-position: 0 -96px;
 }
 .pay-maestro {
-  width: 32px;
-  height: 32px;
-  background-position: -432px -48px;
+  width: 27px;
+  height: 16px;
+  background-position: -32px -96px;
 }
 .pay-mais {
-  width: 32px;
-  height: 32px;
-  background-position: -480px -48px;
+  width: 25px;
+  height: 16px;
+  background-position: -96px -96px;
 }
 .pay-mastercard {
-  width: 32px;
-  height: 32px;
-  background-position: -528px -48px;
+  width: 21px;
+  height: 16px;
+  background-position: -160px -96px;
 }
 .pay-pagseguro {
-  width: 32px;
-  height: 32px;
-  background-position: -576px -48px;
+  width: 63px;
+  height: 16px;
+  background-position: -192px -96px;
 }
 .pay-paypal {
-  width: 32px;
-  height: 32px;
-  background-position: -624px -48px;
+  width: 41px;
+  height: 16px;
+  background-position: -288px -96px;
 }
 .pay-personalcard {
   width: 32px;
-  height: 32px;
-  background-position: -672px -48px;
+  height: 16px;
+  background-position: -352px -96px;
+}
+.pay-pix {
+  width: 45px;
+  height: 16px;
+  background-position: -416px -96px;
 }
 .pay-sodexo {
-  width: 32px;
-  height: 32px;
-  background-position: -720px -48px;
+  width: 41px;
+  height: 16px;
+  background-position: 0 -128px;
 }
 .pay-sorocred {
-  width: 32px;
-  height: 32px;
-  background-position: 0 -96px;
+  width: 16px;
+  height: 16px;
+  background-position: -64px -128px;
 }
 .pay-ticket {
-  width: 32px;
-  height: 32px;
-  background-position: -48px -96px;
+  width: 55px;
+  height: 16px;
+  background-position: -96px -128px;
+}
+.pay-unionpay {
+  width: 26px;
+  height: 16px;
+  background-position: -160px -128px;
 }
 .pay-valecard {
-  width: 32px;
-  height: 32px;
-  background-position: -96px -96px;
+  width: 29px;
+  height: 16px;
+  background-position: -224px -128px;
 }
 .pay-visa {
-  width: 32px;
-  height: 32px;
-  background-position: -144px -96px;
+  width: 49px;
+  height: 16px;
+  background-position: -288px -128px;
 }
 .pay-visaelectron {
-  width: 32px;
-  height: 32px;
-  background-position: -192px -96px;
+  width: 36px;
+  height: 16px;
+  background-position: -352px -128px;
 }
 .pay-visavale {
-  width: 32px;
-  height: 32px;
-  background-position: -240px -96px;
+  width: 26px;
+  height: 16px;
+  background-position: -416px -128px;
 }
 .pay-vr {
-  width: 32px;
-  height: 32px;
-  background-position: -288px -96px;
+  width: 16px;
+  height: 16px;
+  background-position: 0 -160px;
 }
 
