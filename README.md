@@ -10,7 +10,7 @@ Copy `sprite.css` and `sprite.svg` in your project, link:
 <link rel="stylesheet" href="css/sprite.css" />
 ```
 
-![Examples](bandeiras.PNG)
+![Examples](sprite.png)
 
 ## Customize
 
